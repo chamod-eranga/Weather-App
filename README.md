@@ -14,3 +14,6 @@ Technologies Used:
 -Android SDK
 -Java
 -OpenWeatherMap API
+
+![Image 2024-06-05 at 13 49 40_8108fab8](https://github.com/chamod-eranga/Weather-App/assets/113273417/e27b622e-bb0b-49b2-a172-9fa7e3d10bf7)
+![2024-06-05 132838](https://github.com/chamod-eranga/Weather-App/assets/113273417/68b25f07-30a3-449e-b892-8a6ad5309953)
