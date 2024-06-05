@@ -15,5 +15,6 @@ Technologies Used:
 -Java
 -OpenWeatherMap API
 
-![Image 2024-06-05 at 13 49 40_8108fab8](https://github.com/chamod-eranga/Weather-App/assets/113273417/e27b622e-bb0b-49b2-a172-9fa7e3d10bf7)
-![2024-06-05 132838](https://github.com/chamod-eranga/Weather-App/assets/113273417/68b25f07-30a3-449e-b892-8a6ad5309953)
+
+![Screenshot 2024-06-05 161605](https://github.com/chamod-eranga/Weather-App/assets/113273417/a263f470-9a95-46c3-a53b-7dd2d235d4c2)
+![Screenshot 2024-06-05 162204](https://github.com/chamod-eranga/Weather-App/assets/113273417/c5f7760c-9c25-4cef-b522-9580229debd1)
